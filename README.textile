@@ -1,0 +1,9 @@
+h1. braincloud
+
+Soon braincloud.cc will become my blog, you will see!
+
+h2. Description:
+
+This is a work in progress which is inspired by jekyll and prompted by some recent work I have been doing with less, mustache, and thor...
+
+My main purpose for doing this is to extract the blog engine into a gem at some point to allow others to rackup their own!
