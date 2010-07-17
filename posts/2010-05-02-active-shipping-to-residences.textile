@@ -1,0 +1,13 @@
+---
+title: Active Shipping and Residential Addresses
+description: description
+published: true
+categories: [rails, active-shipping, active-merchant]
+---
+
+shipping_type is best used to say if an address is for a residence or business
+
+def residential?; (@address_type == 'residential') end
+def commercial?; (@address_type == 'commercial') end
+
+http://52weeksofux.com/post/531355592/design-for-delight

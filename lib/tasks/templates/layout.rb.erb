@@ -1,0 +1,9 @@
+class Braincloud
+  module Views
+    class <%= name.capitalize %>Layout < Mustache
+      def title
+        @title || "<%= name.capitalize %> Layout"
+      end
+    end
+  end
+end

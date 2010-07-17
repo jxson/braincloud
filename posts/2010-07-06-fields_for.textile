@@ -1,0 +1,8 @@
+---
+title: Is The fields_for helper in Rails 3 Not Working For You?
+description: description
+published: true
+categories: [rails, helpers, fields_for]
+---
+
+rails3 fileds_for needs this <%= %> and not <% %>
